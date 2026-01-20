@@ -1,7 +1,7 @@
 # Vinícius Alkimim Porto
 
 **Finance Undergraduate @ FEA-RP / USP (São Paulo, Brazil)**  
-**Quantitative Finance • Econometrics • Data Science**
+**Portfolio Management • Quantitative Finance • Econometrics • Data Science**
 
 ---
 
@@ -11,6 +11,7 @@ I'm an Finance student at **FEA-RP / USP** I use this space exclusively for docu
 
 My main interests are:
 
+- 📈 **Portfolio Management** – Construction and rebalancing of multi-asset portfolios using allocation methods (Risk Parity, Black-Litterman) to maximize risk-adjusted returns
 - 📈 **Quantitative Finance** – pricing, trading strategies, portfolio optimization, risk
 - 🤖 **Machine Learning & Predictive Modeling** – from classical models to more complex pipelines
 - 🧠 **Natural Language Processing** – extracting information from unstructured text
@@ -53,9 +54,6 @@ Right now I'm building a portfolio of projects from my coursework and personal s
 
 ### 📚 Selected projects
 
-> As I organize my projects this semester, this section will keep growing.  
-> Repositories marked as “coming soon” are already implemented locally and will be published here.
-
 #### 🔹 Natural Language Processing
 
 - **NLP Final Project – End-to-end NLP pipeline**  
@@ -85,22 +83,6 @@ Right now I'm building a portfolio of projects from my coursework and personal s
 
 - **Georeferenced Information (QGIS) Projects (coming soon)**  
   Creation and analysis of maps using QGIS, combining socioeconomic and spatial data to support economic and urban-planning insights.
-
----
-
-### 📖 Coursework highlight
-
-Some of the courses that shaped the projects in this repository:
-
-- **Algorithmic Trading**
-- **Quantitative Finance**
-- **Machine Learning**
-- **Predictive Modeling**
-- **Natural Language Processing**
-- **Python for Data Science**
-- **Georeferenced Information (QGIS)**
-
-Each course is being organized into its own GitHub repository, with **labs** and **final projects** clearly separated and documented.
 
 ---
 
