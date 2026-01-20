@@ -77,11 +77,6 @@ Right now I'm building a portfolio of projects from my coursework and personal s
 - **Python for Data Science – ML & EDA Project (coming soon)**  
   Full data science workflow: data cleaning, feature engineering, exploratory analysis and supervised learning for a real-world dataset.
 
-#### 🔹 Geospatial Analysis
-
-- **Georeferenced Information (QGIS) Projects (coming soon)**  
-  Creation and analysis of maps using QGIS, combining socioeconomic and spatial data to support economic and urban-planning insights.
-
 ---
 
 ### 📫 How to reach me
