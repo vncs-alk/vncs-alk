@@ -11,7 +11,7 @@ I'm an Finance student at **FEA-RP / USP** I use this space exclusively for docu
 
 My main interests are:
 
-- 📈 **Portfolio Management** – Construction and rebalancing of multi-asset portfolios using allocation methods (Risk Parity, Black-Litterman) to maximize risk-adjusted returns
+- 📈 **Portfolio Management** – Construction and rebalancing of multi-asset portfolios using allocation methods (Risk Parity, Black-Litterman) to maximize risk-adjusted returns and backtesting
 - 📈 **Quantitative Finance** – pricing, trading strategies, portfolio optimization, risk
 - 🤖 **Machine Learning & Predictive Modeling** – from classical models to more complex pipelines
 - 🧠 **Natural Language Processing** – extracting information from unstructured text
@@ -25,9 +25,7 @@ Right now I'm building a portfolio of projects from my coursework and personal s
 
 - Final projects for:
   - **Algorithmic Trading**
-  - **Quantitative Finance**
-  - **Machine Learning**
-  - **Predictive Modeling**
+  - **Risk Parity Portifolios**
 
 ---
 
@@ -42,8 +40,8 @@ Right now I'm building a portfolio of projects from my coursework and personal s
 
 **Quant & Stats**
 
-- Risk/return metrics (Sharpe, drawdown, VaR basics)  
 - Portfolio construction & optimization
+- Risk/return metrics (Sharpe, drawdown, VaR basics)  
 
 **Other tools**
 
